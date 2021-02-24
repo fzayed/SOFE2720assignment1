@@ -1,1 +1,1 @@
-﻿# Client-Socket Connection
+﻿# A multiplayer game using socket programming.
